@@ -42,6 +42,6 @@ I am a BackEnd, Full Stack Developer <img src="https://media.giphy.com/media/WUl
 </p>
 
 ---
-<img src="https://img.shields.io/github/license/KingCSharp/ro_ticketing" title="LICENSE"  alt="Apache License" width="40" height="40"/>&nbsp;
+
 ---
 
